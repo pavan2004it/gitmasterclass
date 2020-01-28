@@ -68,3 +68,13 @@ def print_something(text):
    print(text)
 
 ```
+
+` Java Code Sample `
+
+``` java
+
+public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+
+```
