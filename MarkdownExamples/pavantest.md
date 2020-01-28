@@ -14,12 +14,12 @@ This is a test file to show the **capabilities** of __markdown__ which is going 
 - Sql
 - NoSql
 
-#### Cloud Requirements
+### Cloud Requirements
 * Aws
 * Azure
 * GCP
 
-##### IDE Requirements
+### IDE Requirements
 + Python
    - Pycharm
    - Atom
@@ -30,7 +30,7 @@ This is a test file to show the **capabilities** of __markdown__ which is going 
    - Eclipse
   
 
-###### Plugin Requirements
+### Plugin Requirements
 1. Jupyter Notebook
    1. V1.0
    2. V2.0
