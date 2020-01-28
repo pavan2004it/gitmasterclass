@@ -47,3 +47,12 @@ This is a test file to show the **capabilities** of __markdown__ which is going 
 * [ ] Install Prohtamming Languages
 * [ ] Install IDE
 * [ ] Install Plugins
+
+### Sample Table
+
+IOS | Android | Windows
+:---:|:---:|---:
+**Medium app for iOS** | *Medium app for Android* | Medium app for windows
+This app is for iOS | This app has been designed for Android | This app has been designed for windows and will be used for both tablet and pc's of windows
+[**_App Store_**](https://apps.apple.com/us/app/medium/id828256236) | [*Play Store*](https://play.google.com/store/apps/details?id=com.medium.reader&hl=en_IN) | [Windows](https://www.microsoft.com/en-in/p/fast-access-mediumcom/9mz8gwk17041?activetab=pivot:overviewtab)
+
